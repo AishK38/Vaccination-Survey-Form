@@ -23,3 +23,9 @@ h1{
   div{
     color: white;
   }
+
+  button {
+    background-color:rgba(196, 225, 238, 0.877);
+    font-size: 200;
+    font-style: bold;
+  }
